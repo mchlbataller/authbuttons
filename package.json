@@ -1,0 +1,35 @@
+{
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "name": "authbuttons",
+  "description": "## About this Component:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -o index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchlbataller/authbuttons.git"
+  },
+  "keywords": [
+    "authbuttons"
+  ],
+  "author": "Michael C. Bataller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mchlbataller/authbuttons/issues"
+  },
+  "homepage": "https://github.com/mchlbataller/authbuttons#readme"
+}
